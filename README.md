@@ -10,7 +10,11 @@ This is an Employee Review System project of Coding Ninjas made using Nodejs, Ex
 git clone https://github.com/wizzenalum/employee-review-system.git
 ```
   - Open terminal on your pc and navigate to the root directory of the project.
-  - Run "npm install" command inside the terminal to install all the required dependencies.
+ 
+  -  Install dependencies
+```go
+npm install --save
+```
   - Create a '.env' file inside root directory and define values for
       - PORT ( port on which your project will run )
       - MONGODB_URL ( URL of your mongoDB database for connecting to database )
