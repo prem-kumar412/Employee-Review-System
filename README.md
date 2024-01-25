@@ -5,6 +5,8 @@ This is an Employee Review System project of Coding Ninjas made using Nodejs, Ex
   # Installation and Run 
   Follow these steps:
   - Get the code on your system.
+  - 1. To use this repository your machine should have [node](https://nodejs.org/en/), npm, [monogodb](https://docs.mongodb.com/manual/installation/) and [git](https://git-scm.com/downloads). to check version exicute these.
+```go
   - Open terminal on your pc and navigate to the root directory of the project.
   - Run "npm install" command inside the terminal to install all the required dependencies.
   - Create a '.env' file inside root directory and define values for
