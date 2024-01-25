@@ -7,13 +7,13 @@ This is an Employee Review System project of Coding Ninjas made using Nodejs, Ex
   - Get the code on your system.
   . Now clone this repository
 ```go
-git clone https://github.com/wizzenalum/employee-review-system.git
+git clone https://github.com/prem-kumar412/Employee-Review-System.git
 ```
   - Open terminal on your pc and navigate to the root directory of the project.
  
   -  Install dependencies
 ```go
-npm install --save
+npm install 
 ```
   - Create a '.env' file inside root directory and define values for
       - PORT ( port on which your project will run )
