@@ -15,6 +15,23 @@ This is an Employee Review System project of Coding Ninjas made using Nodejs, Ex
   - Open your web browser and serach for 'localhost:{PORT}/' to see the output.
 
 # Features
+This application has following features with three views
+1. Admin view
+```sh
+Add/remove/update/view employees
+Add/update/view performance reviews
+Assign employees to participate in another employee's performance review
+```
+2. Employee view
+```sh
+List of performance review requiring feedback 
+An employee can register, only admin can make an employee an admin
+```
+3. sign in for admin and user.
+```sh
+also has super user for initialting the application once
+Make 1 login for admin and employee
+```
   - Create account with your role as " Admin / Employee "
   - Login using your email and password.
   - Store your session-token in DB so that logged in user's session will be safe.
