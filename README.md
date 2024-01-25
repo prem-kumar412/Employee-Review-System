@@ -19,7 +19,10 @@ npm install --save
       - PORT ( port on which your project will run )
       - MONGODB_URL ( URL of your mongoDB database for connecting to database )
       - SECRET_KEY ( secret key for express-session )
-  - Run 'npm start' command inside terminal to run the code.
+  -  That's... it  run the application
+```go
+npm start
+```
   - Open your web browser and serach for 'localhost:{PORT}/' to see the output.
 
 # Features
